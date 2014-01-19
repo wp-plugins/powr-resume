@@ -2,7 +2,7 @@
     ===POWr Resume===
     Contributors: powr
     Donate link: http://powr.io/
-    Tags: Resume, CV, curriculum vitae, free resume, free CV, HTML5 resume, PDF resume, automatic resume, facebook resume , linkedin resume, resume plugin, resume widget
+    Tags: Resume, CV, curriculum vitae, free resume, free CV, HTML5 resume, PDF resume, automatic resume, facebook resume, linkedin resume, resume plugin, resume widget
     Requires at least: 3.0
     Tested up to: 3.8
     Stable tag: 1.0
