@@ -15,7 +15,9 @@
     POWr Resume is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
     Add the widget to your site, or use the shortcode **[powr-resume]** to add Resume to any post.
     <br><br>
-    Highlight your professional experience with a stunning HTML resume or CV (curriculum vitae). Get started in seconds by importing your existing information from Facebook or Linkedin. Add an unlimited number of fields, and choose from expert-designed templates or fully customize all fonts and colors to match your brand.<br>
+    Highlight your professional experience with a stunning HTML resume or CV (curriculum vitae).
+    Get started in seconds by importing your existing information from Facebook or Linkedin.
+    Add an unlimited number of fields, and choose from expert-designed templates or fully customize all fonts and colors to match your brand.
     <br><br>
     The basic version of the POWr Resume is free!
     <br><br>
