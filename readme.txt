@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Resume, CV, curriculum vitae, free resume, free CV, HTML5 resume, PDF resume, automatic resume, facebook resume , linkedin resume, resume plugin, resume widget, resume format, resume building, resume builder, create a resume, resume maker, post resume, resume template, education, experience, organizations, resume layout, resume publishing, personal branding, HR resume, awards, job search, application, job hunt, job seeker, recruiting, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
