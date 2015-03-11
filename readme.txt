@@ -22,7 +22,6 @@ First, download, install, and activate POWr Resume. Then drop the widget anywher
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-resume-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Highlight your experience with unlimited fields covering Education, Experience, Skills, and more!
 * Import content from LinkedIn or Facebook with just one click.
@@ -32,9 +31,10 @@ First, download, install, and activate POWr Resume. Then drop the widget anywher
 <br>
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Resume.
