@@ -36,6 +36,7 @@ First, download, install, and activate POWr Resume. Then drop the widget anywher
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Resume.
 <br>
