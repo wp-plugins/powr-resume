@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Create, customize, and display your resume or CV!
 
 == Description ==
-Create, customize, and display your resume or CV!
+ Create, customize, and display your resume or CV!
 <br>
 <br>
 POWr Resume is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
