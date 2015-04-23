@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Resume, CV, curriculum vitae, free resume, free CV, HTML5 resume, PDF resume, automatic resume, facebook resume , linkedin resume, resume plugin, resume widget, resume format, resume building, resume builder, create a resume, resume maker, post resume, resume template, education, experience, organizations, resume layout, resume publishing, personal branding, HR resume, awards, job search, application, job hunt, job seeker, recruiting, free, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,7 @@ First, download, install, and activate POWr Resume. Then drop the widget anywher
 * Built-in support for text in any language.
 * Mobile responsive design looks great on any device.  
 <br>
+
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
